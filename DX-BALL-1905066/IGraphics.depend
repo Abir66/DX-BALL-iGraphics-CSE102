@@ -1,0 +1,797 @@
+# depslib dependency file v1.0
+1563893532 source:c:\users\asus\downloads\igraphics\test1 - copy\solarsystem.cpp
+	"iGraphics.h"
+	"gl.h"
+
+1563893532 c:\users\asus\downloads\igraphics\test1 - copy\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563893532 c:\users\asus\downloads\igraphics\test1 - copy\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563893532 c:\users\asus\downloads\igraphics\test1 - copy\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563893532 c:\users\asus\downloads\igraphics\test1 - copy\opengl\include\gl.h
+
+1602994837 source:c:\users\asus\downloads\igraphics\test1 - copy\imain.cpp
+	"iGraphics.h"
+	<math.h>
+
+1603005500 source:c:\users\asus\downloads\igraphics\test1 - copy - copy\imain.cpp
+	"iGraphics.h"
+	<math.h>
+
+1563893532 c:\users\asus\downloads\igraphics\test1 - copy - copy\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563893532 c:\users\asus\downloads\igraphics\test1 - copy - copy\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563893532 c:\users\asus\downloads\igraphics\test1 - copy - copy\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1603024192 source:c:\users\asus\downloads\igraphics\test1 - copy - copy - copy\imain.cpp
+	"iGraphics.h"
+	<math.h>
+
+1563893532 c:\users\asus\downloads\igraphics\test1 - copy - copy - copy\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563893532 c:\users\asus\downloads\igraphics\test1 - copy - copy - copy\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563893532 c:\users\asus\downloads\igraphics\test1 - copy - copy - copy\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1603106066 source:c:\users\asus\downloads\igraphics\test1 - minumum + extra 18 raat 12ta - copy - copy\imain.cpp
+	"iGraphics.h"
+	<math.h>
+
+1563893532 c:\users\asus\downloads\igraphics\test1 - minumum + extra 18 raat 12ta - copy - copy\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563893532 c:\users\asus\downloads\igraphics\test1 - minumum + extra 18 raat 12ta - copy - copy\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563893532 c:\users\asus\downloads\igraphics\test1 - minumum + extra 18 raat 12ta - copy - copy\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1603161966 source:c:\users\asus\downloads\igraphics\test1 - 19 raat 8ta added newcurve menu\imain.cpp
+	"iGraphics.h"
+	<math.h>
+
+1563893532 c:\users\asus\downloads\igraphics\test1 - 19 raat 8ta added newcurve menu\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563893532 c:\users\asus\downloads\igraphics\test1 - 19 raat 8ta added newcurve menu\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563893532 c:\users\asus\downloads\igraphics\test1 - 19 raat 8ta added newcurve menu\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1603164955 source:c:\users\asus\downloads\igraphics\test1 - 20 sokal 9ta added newcurve full done - copy - copy\imain.cpp
+	"iGraphics.h"
+	<math.h>
+
+1563893532 c:\users\asus\downloads\igraphics\test1 - 20 sokal 9ta added newcurve full done - copy - copy\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563893532 c:\users\asus\downloads\igraphics\test1 - 20 sokal 9ta added newcurve full done - copy - copy\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563893532 c:\users\asus\downloads\igraphics\test1 - 20 sokal 9ta added newcurve full done - copy - copy\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1603171554 source:c:\users\asus\downloads\igraphics\test1 - 20 sokal 9ta added newcurve full done - copy -fixed - copy - copy\imain.cpp
+	"iGraphics.h"
+	<math.h>
+
+1563893532 c:\users\asus\downloads\igraphics\test1 - 20 sokal 9ta added newcurve full done - copy -fixed - copy - copy\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563893532 c:\users\asus\downloads\igraphics\test1 - 20 sokal 9ta added newcurve full done - copy -fixed - copy - copy\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563893532 c:\users\asus\downloads\igraphics\test1 - 20 sokal 9ta added newcurve full done - copy -fixed - copy - copy\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1603172797 source:c:\users\asus\downloads\igraphics\test1 - 20 sokal 11ta added newcurve full done - copy -fixed - copy - copy fixed - copy\imain.cpp
+	"iGraphics.h"
+	<math.h>
+
+1563893532 c:\users\asus\downloads\igraphics\test1 - 20 sokal 11ta added newcurve full done - copy -fixed - copy - copy fixed - copy\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563893532 c:\users\asus\downloads\igraphics\test1 - 20 sokal 11ta added newcurve full done - copy -fixed - copy - copy fixed - copy\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563893532 c:\users\asus\downloads\igraphics\test1 - 20 sokal 11ta added newcurve full done - copy -fixed - copy - copy fixed - copy\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1603173388 source:c:\users\asus\downloads\igraphics\test1 - 20 sokal 11ta done\imain.cpp
+	"iGraphics.h"
+	<math.h>
+
+1563893532 c:\users\asus\downloads\igraphics\test1 - 20 sokal 11ta done\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563893532 c:\users\asus\downloads\igraphics\test1 - 20 sokal 11ta done\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563893532 c:\users\asus\downloads\igraphics\test1 - 20 sokal 11ta done\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1603176603 source:c:\users\asus\downloads\igraphics\test1 - 20 sokal 12ta done\imain.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<math.h>
+	<string.h>
+
+1563893532 c:\users\asus\downloads\igraphics\test1 - 20 sokal 12ta done\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563893532 c:\users\asus\downloads\igraphics\test1 - 20 sokal 12ta done\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563893532 c:\users\asus\downloads\igraphics\test1 - 20 sokal 12ta done\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1603275369 source:c:\users\asus\downloads\igraphics\test1 - 20 sokal 12ta done comment done - copy\imain.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<math.h>
+	<string.h>
+
+1563893532 c:\users\asus\downloads\igraphics\test1 - 20 sokal 12ta done comment done - copy\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563893532 c:\users\asus\downloads\igraphics\test1 - 20 sokal 12ta done comment done - copy\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563893532 c:\users\asus\downloads\igraphics\test1 - 20 sokal 12ta done comment done - copy\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1603282582 source:c:\users\asus\downloads\igraphics\all complete - copy\imain.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<math.h>
+	<string.h>
+
+1563893532 c:\users\asus\downloads\igraphics\all complete - copy\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563893532 c:\users\asus\downloads\igraphics\all complete - copy\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563893532 c:\users\asus\downloads\igraphics\all complete - copy\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1603286429 source:c:\users\asus\downloads\igraphics\done\imain.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<math.h>
+	<string.h>
+
+1563893532 c:\users\asus\downloads\igraphics\done\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563893532 c:\users\asus\downloads\igraphics\done\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563893532 c:\users\asus\downloads\igraphics\done\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1603363306 source:c:\users\asus\downloads\igraphics\curves_1905066\curves_1905066.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<math.h>
+	<string.h>
+
+1563893532 c:\users\asus\downloads\igraphics\curves_1905066\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563893532 c:\users\asus\downloads\igraphics\curves_1905066\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563893532 c:\users\asus\downloads\igraphics\curves_1905066\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1603433801 source:c:\users\asus\downloads\igraphics\curves_1905066 - copy\curves_1905066.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<math.h>
+	<string.h>
+
+1563893532 c:\users\asus\downloads\igraphics\curves_1905066 - copy\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563893532 c:\users\asus\downloads\igraphics\curves_1905066 - copy\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563893532 c:\users\asus\downloads\igraphics\curves_1905066 - copy\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1603436850 source:c:\users\asus\downloads\igraphics\curves_1905066  with drawing\curves_1905066.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<math.h>
+	<string.h>
+
+1563893532 c:\users\asus\downloads\igraphics\curves_1905066  with drawing\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563893532 c:\users\asus\downloads\igraphics\curves_1905066  with drawing\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563893532 c:\users\asus\downloads\igraphics\curves_1905066  with drawing\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1604702855 source:c:\users\asus\downloads\igraphics\curves_1905066  with drawing - copy\curves_1905066.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<math.h>
+	<string.h>
+
+1563893532 c:\users\asus\downloads\igraphics\curves_1905066  with drawing - copy\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563893532 c:\users\asus\downloads\igraphics\curves_1905066  with drawing - copy\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563893532 c:\users\asus\downloads\igraphics\curves_1905066  with drawing - copy\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1604702855 source:c:\users\asus\desktop\curves 1905066\curves_1905066.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<math.h>
+	<string.h>
+
+1563893532 c:\users\asus\desktop\curves 1905066\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563893532 c:\users\asus\desktop\curves 1905066\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563893532 c:\users\asus\desktop\curves 1905066\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1607112506 source:c:\users\asus\downloads\00dxball\dxball 1905066\imain.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"dxHeader.h"
+
+1563893532 c:\users\asus\downloads\00dxball\dxball 1905066\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563893532 c:\users\asus\downloads\00dxball\dxball 1905066\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563893532 c:\users\asus\downloads\00dxball\dxball 1905066\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1606999212 source:c:\users\asus\downloads\00dxball\dxball 1905066\curves_1905066.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<math.h>
+	<string.h>
+
+1607110131 c:\users\asus\downloads\00dxball\dxball 1905066\dxheader.h
+
+1607194252 source:c:\users\asus\downloads\00dxball\full screen test\imain.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"dxHeader.h"
+
+1607197102 c:\users\asus\downloads\00dxball\full screen test\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563893532 c:\users\asus\downloads\00dxball\full screen test\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563893532 c:\users\asus\downloads\00dxball\full screen test\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1607110131 c:\users\asus\downloads\00dxball\full screen test\dxheader.h
+
+1607855819 source:c:\users\asus\downloads\00dxball\final\imain.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"iGraphics.h"
+	"dxHeader.h"
+
+1607754061 c:\users\asus\downloads\00dxball\final\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563893532 c:\users\asus\downloads\00dxball\final\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563893532 c:\users\asus\downloads\00dxball\final\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1607479757 c:\users\asus\downloads\00dxball\final\dxheader.h
+
+1608106545 source:c:\users\asus\downloads\00dxball\final - copy\imain.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"iGraphics.h"
+	"dxHeader.h"
+
+1607754061 c:\users\asus\downloads\00dxball\final - copy\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563893532 c:\users\asus\downloads\00dxball\final - copy\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563893532 c:\users\asus\downloads\00dxball\final - copy\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1607479757 c:\users\asus\downloads\00dxball\final - copy\dxheader.h
+
+1608279439 source:c:\users\asus\downloads\00dxball\merge1\imain.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"iGraphics.h"
+	"dxHeader.h"
+
+1607754061 c:\users\asus\downloads\00dxball\merge1\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563893532 c:\users\asus\downloads\00dxball\merge1\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563893532 c:\users\asus\downloads\00dxball\merge1\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1608111301 c:\users\asus\downloads\00dxball\merge1\dxheader.h
+
+1608291577 source:c:\users\asus\downloads\00dxball\merge1 - copy\imain.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"iGraphics.h"
+	"dxHeader.h"
+
+1607754061 c:\users\asus\downloads\00dxball\merge1 - copy\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563893532 c:\users\asus\downloads\00dxball\merge1 - copy\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563893532 c:\users\asus\downloads\00dxball\merge1 - copy\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1608111301 c:\users\asus\downloads\00dxball\merge1 - copy\dxheader.h
+
+1608368003 source:c:\users\asus\downloads\00dxball\merge1 - copy - copy\imain.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"iGraphics.h"
+	"dxHeader.h"
+
+1607754061 c:\users\asus\downloads\00dxball\merge1 - copy - copy\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563893532 c:\users\asus\downloads\00dxball\merge1 - copy - copy\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563893532 c:\users\asus\downloads\00dxball\merge1 - copy - copy\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1608111301 c:\users\asus\downloads\00dxball\merge1 - copy - copy\dxheader.h
+
+1608397583 source:c:\users\asus\downloads\00dxball\adding levelmaker\imain.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"iGraphics.h"
+	"dxHeader.h"
+
+1607754061 c:\users\asus\downloads\00dxball\adding levelmaker\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563893532 c:\users\asus\downloads\00dxball\adding levelmaker\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563893532 c:\users\asus\downloads\00dxball\adding levelmaker\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1608111301 c:\users\asus\downloads\00dxball\adding levelmaker\dxheader.h
+
+1608428857 source:c:\users\asus\downloads\00dxball\adding levelmaker - copy\imain.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"iGraphics.h"
+	"dxHeader.h"
+
+1607754061 c:\users\asus\downloads\00dxball\adding levelmaker - copy\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563893532 c:\users\asus\downloads\00dxball\adding levelmaker - copy\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563893532 c:\users\asus\downloads\00dxball\adding levelmaker - copy\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1608111301 c:\users\asus\downloads\00dxball\adding levelmaker - copy\dxheader.h
+
+1608430382 source:c:\users\asus\desktop\1905066 dxball\imain.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"iGraphics.h"
+	"dxHeader.h"
+
+1607754061 c:\users\asus\desktop\1905066 dxball\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563893532 c:\users\asus\desktop\1905066 dxball\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563893532 c:\users\asus\desktop\1905066 dxball\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1608111301 c:\users\asus\desktop\1905066 dxball\dxheader.h
+
+1608430382 source:c:\users\asus\desktop\1905066 dxball - copy\imain.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"iGraphics.h"
+	"dxHeader.h"
+
+1607754061 c:\users\asus\desktop\1905066 dxball - copy\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563893532 c:\users\asus\desktop\1905066 dxball - copy\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563893532 c:\users\asus\desktop\1905066 dxball - copy\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1608111301 c:\users\asus\desktop\1905066 dxball - copy\dxheader.h
+
+1608473173 source:c:\users\asus\desktop\dx-ball 1905066\imain.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"iGraphics.h"
+	"dxHeader.h"
+
+1607754062 c:\users\asus\desktop\dx-ball 1905066\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563893532 c:\users\asus\desktop\dx-ball 1905066\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563893532 c:\users\asus\desktop\dx-ball 1905066\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1608111302 c:\users\asus\desktop\dx-ball 1905066\dxheader.h
+
