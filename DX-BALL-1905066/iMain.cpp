@@ -3586,12 +3586,13 @@ void iMouse(int button, int state, int mx, int my)
 */
 void iKeyboard(unsigned char key)
 {
-    //if(key == 'q')
-    //{
-    //    exit(0);
-    //}
-
     /*
+    if(key == 'q')
+    {
+        exit(0);
+    }
+
+
     if(key == 'm' || key =='M')
     {
         ToggleMusic();
@@ -3631,7 +3632,7 @@ void iKeyboard(unsigned char key)
     }
     else if(scene == 4)
     {
-        if(key == 'p')
+        if(key == 'p' || key==27)
         {
 
             if(!gameplayPause)
